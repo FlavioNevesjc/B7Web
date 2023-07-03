@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400;700&display=swap');
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+aside ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+aside li {
+    margin-left: 13px;
+    font-size: 15px;
+}
+
+#aplicativos {
+    width: 13px;
+    height: 13px;
+}
+
+.google {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.google img {
+    margin-top: 50px;
+}
+
+#procurar {
+    width: 540px;
+    height: 40px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+#pesquisa_google {
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+}
+
+.format {
+    font-size: 12px;
+    background-color: #eee9e9;
+    border-top: 1px solid #a8a6a6;
+    padding:  10px;
+}
+
+#esticar {
+    width:calc(80% - 200px);
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: justify;

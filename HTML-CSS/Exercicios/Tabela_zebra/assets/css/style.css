@@ -1,0 +1,15 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 2 solid #000000;
+}
+
+tr:nth-child(even) {
+    background-color: aqua;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}

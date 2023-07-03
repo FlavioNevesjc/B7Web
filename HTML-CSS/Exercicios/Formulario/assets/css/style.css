@@ -1,0 +1,32 @@
+body {
+    padding: 0;
+    margin: 0;
+    
+}
+
+label {
+    display: block;
+    margin: 10px;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+fieldset {
+    margin-bottom: 10px;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+input select {
+    margin-left:5px;
+    border: 1px solid #888888;
+    border-radius: 5px  ;
+}
+
+h1 {
+    text-align: center;
+}
+
+input button {
+    align-items: center;
+}

@@ -1,0 +1,16 @@
+div {
+    font-size: 30px;
+    padding: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 10px double #adb1e9;
+    background-color: #444cbe;
+    width: 600px;
+    height: 60px;
+    color: #d3d2d2;
+    text-align: center;
+    text-shadow: 2px 2px 2px #00aaff;
+    transform: rotate(-45deg);
+    right: 900px;
+    bottom: 400px;
+    position:fixed;   
+}
